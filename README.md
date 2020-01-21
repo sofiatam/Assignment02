@@ -18,14 +18,14 @@ For my usability test, I performed it in my dorm using my personal laptop. I use
 This usability test is a pilot test, and my roommate was the user.
 
 The process of the usability test was as follows:
-1. Background questions
-2. Previous experience questions
-3. Pre-test questions
-4. Tasks
-5. Post-test questions
-6. SUS questionnaire
-7. Product satisfaction card
-8. Demographics
+- Background questions
+- Previous experience questions
+- Pre-test questions
+- Tasks
+- Post-test questions
+- SUS questionnaire
+- Product satisfaction card
+- Demographics
 
 The following results were measured:
 - Ease of use
@@ -35,6 +35,8 @@ The following results were measured:
 - Site organization
 - Site content
 - How the user felt after using site
+
+Many measurements were taken using the seven-point Likert scale.
 
 ------
 ## User testing materials
