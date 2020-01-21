@@ -13,11 +13,10 @@ For Yelp, the usability issues I found from my heuristic reviews were as follows
 - Sponsored results distort actual search results
 - Certain site features are difficult to find
 
-For my usability test, I performed it in my dorm using my personal laptop. I used ActivePresenter to record my usability test. The session recorded the screen, me and the user, and audio.
-
-This usability test is a pilot test, and my roommate was the user.
+For my usability test, I performed it in my dorm using my personal laptop. I used ActivePresenter to record my usability test. The session recorded the screen, me and the user, and audio. This usability test is a pilot test, and my roommate was the user.
 
 The process of the usability test was as follows:
+- Intro
 - Background questions
 - Previous experience questions
 - Pre-test questions
@@ -27,7 +26,7 @@ The process of the usability test was as follows:
 - Product satisfaction card
 - Demographics
 
-The following results were measured:
+The following results were measured (many using the seven-point Likert scale):
 - Ease of use
 - Frequency of use
 - Learn ability
@@ -35,8 +34,6 @@ The following results were measured:
 - Site organization
 - Site content
 - How the user felt after using site
-
-Many measurements were taken using the seven-point Likert scale.
 
 ------
 ## User testing materials
@@ -48,6 +45,4 @@ The pilot test video [here](https://drive.google.com/file/d/1eD-DnusVp0fDZBDXj4F
 
 ------
 ## Improving user testing
-One paragraph describing what you learned during the pilot test, what went well and what went not so well, focusing on how you want to improve your UT in the future.
-
-During the pilot test, I learned that 
+During the pilot test, I learned what usability issues existed for Yelp. For example, I saw that it was not very intuitive for users to filter locations by hours of operation. I also learned that some of Yelp's capabilities, like collections, are incredibly difficult to find. What went well was that there was a mutual trust between the participant and moderator. The testing environment was also quiet. What did not go well was that I was unsure what to do when the user could not complete a certain task and that the internet connection was slow. In future usability tests, I will be more encouraging to the participant and ask them to speak out loud more. I would also perform the usability test in a more test-like environment rather than my dorm room. The pilot test was able to show me how users navigate the site and learn what parts of the site pose as usability errors.
