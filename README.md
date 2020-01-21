@@ -1,7 +1,7 @@
 # Assignment02-DH150
 ## Sofia Tam
 
----------------------
+--------
 
 ### User testing
 Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.). The purpose of Yelp is for its community of users to help other users find businesses.
