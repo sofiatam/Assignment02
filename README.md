@@ -42,6 +42,7 @@ The usability materials [here](https://forms.gle/XuDBtqvDZCQWbQP39).
 ------
 ## User testing video
 The pilot test video [here](https://drive.google.com/file/d/1eD-DnusVp0fDZBDXj4Fw9pAlL5eKWrTX/view?usp=sharing).
+The screen recording is [here](https://drive.google.com/file/d/1Ld-tRh3Adm3zB6tMh-g7k7dUbPtppjUy/view?usp=sharing).
 
 ------
 ## Improving user testing
